@@ -1,4 +1,4 @@
-NAME = phusion/baseimage
+NAME = sgarzarella/baseimage-phusion-armhf
 VERSION = 0.10.0
 
 .PHONY: all build test tag_latest release ssh
