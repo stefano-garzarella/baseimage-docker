@@ -1,5 +1,5 @@
-FROM ubuntu:16.04
-MAINTAINER Phusion <info@phusion.nl>
+FROM armv7/armhf-ubuntu:16.04
+MAINTAINER Stefano <stefano.garzarella@gmail.com>
 
 COPY . /bd_build
 
